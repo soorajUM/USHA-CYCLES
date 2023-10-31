@@ -1,4 +1,4 @@
 # USHA-CYCLES
 E-COMMERCE WEBSITE PROTOTYPE
 <br>
-auther - sooraj
+auther - sooraj (jay)
